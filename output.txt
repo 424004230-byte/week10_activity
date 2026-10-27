@@ -1,0 +1,7 @@
+[Library Hall] Payment of $5 processed. Total balance: $5
+[Library Hall] Dispensed a snack! Snacks remaining: 4
+---
+[Main Lobby] Payment of $5 processed. Total balance: $5
+[Main Lobby] Dispensing a cold drink chilled at 4°C!
+---
+Eco Mode Activated: Lowering power consumption.
